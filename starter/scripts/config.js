@@ -12,7 +12,7 @@ const config = {
 		fov: 60,
 		position: [ 4, 4, 8 ],
 		near: .1,
-		far: 1000
+		far: 5000
 	},
 	material: {
 		roughness: .7,

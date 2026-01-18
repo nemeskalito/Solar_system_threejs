@@ -11,15 +11,15 @@ const configPlanets = {
 		neptune: './textures/Neptune/neptune.png',
 	},
 	radius: {
-		sun: .696,
+		sun: 1.5,
 		earth: .191,
 		mercury: .0732,
 		venus: .101,
 		mars: .102,
-		jupiter: .21,
-		saturn: .18,
-		uranus: .076,
-		neptune: .074,
+		jupiter: .71,
+		saturn: .58,
+		uranus: .36,
+		neptune: .24,
 	},
 	position: {
 		earth: 7.5,
@@ -43,14 +43,14 @@ const configPlanets = {
 			neptune: .000475,
 		},
 		axis: {
-			earth: 0.0167,
+			earth: 0.00167,
 			mercury: 0.000109,
 			venus: 0.00065,
 			mars: 0.0087,
-			jupiter: 0.45,
-			saturn: 0.36,
-			uranus: 0.093,
-			neptune: 0.0965,
+			jupiter: 0.0045,
+			saturn: 0.0036,
+			uranus: 0.0093,
+			neptune: 0.00965,
 		}
 	}
 }
